@@ -1,0 +1,381 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.container {
+    width: 1440px;
+    margin: auto;
+}
+
+nav {
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    margin-right: 120px;
+    margin-bottom: 24px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    align-items: center;
+}
+
+ul li a {
+    text-decoration: none;
+    width: 96px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 2px;
+    color: black;
+    margin-left: 128.5px;
+}
+
+ul li a:hover {
+    opacity: 1;
+    color: #DE2E54;
+}
+
+.solve {
+    padding: 12px 24px;
+    gap: 0px;
+    border-radius: 8px;
+    opacity: 0px;
+    color: #DE2E54;
+    border: 2px solid #DE2E54;
+    background-color: white;
+    margin-left: 128.5px;
+}
+
+.solve:hover {
+    color: white;
+    background-color: #DE2E54;
+}
+
+.logo {
+    margin: 0px;
+}
+
+.ooon {
+    width: 119px;
+    height: 33px;
+    top: 8px;
+    left: 66px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.68px;
+    text-align: left;
+    color: #DE2E54;
+    margin-left: 16px;
+    margin-top: 0px;
+}
+
+.ok {
+    width: 141px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+main {
+    background-image: url("https://i.ibb.co/4F7rBCz/image-4.png");
+    background-size: cover;
+    width: 1440px;
+    height: 533px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.twe {
+    width: 500px;
+    height: 82.29px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    margin-left: 0px;
+    margin-top: 137.8px;
+}
+
+.d {
+    margin-top: 50.72px;
+}
+
+#des {
+    margin-top: 48.91px;
+    margin-left: 0px;
+}
+
+.hizmatlar {
+    width: 133px;
+    height: 23.61px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.2px;
+    margin-left: 653px;
+}
+
+.okey {
+    display: flex;
+    justify-self: unset;
+}
+
+.fake {
+    margin-left: 288px;
+    margin-top: 12px;
+}
+
+.spans {
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.8px;
+    margin-left: 64px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.yahz {
+    /* margin-top: 90px; */
+    width: 600px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.okk {
+    display: flex;
+    margin-left: 247px;
+}
+
+.injer {
+    margin-top: 0px;
+    display: block;
+    margin-top: 25px;
+}
+
+.toji {
+    margin-left: 84px;
+}
+
+.yahzi {
+    width: 600px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.injerity {
+    display: block;
+}
+
+.oko {
+    display: flex;
+    margin-top: 80px;
+}
+
+footer {
+    width: 1440px;
+    height: 669px;
+    top: 1447px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #0EB4C1;
+    margin-top: 215.74px;
+    display: block;
+}
+
+.con {
+    width: 527px;
+    height: 63px;
+    left: 425px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77.45px;
+    margin-left: 444px;
+    margin-top: 64px;
+    text-align: center;
+}
+
+.zybal {
+    display: flex;
+}
+
+.dd {
+    width: 513px;
+    height: 331px;
+    border-radius: 10px;
+}
+
+.noviy {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 156px;
+}
+
+.tse {
+    background-color: white;
+    width: 540px;
+    height: 331px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 68px;
+    border-radius: 10px;
+}
+
+#name {
+    margin-top: 27.93px;
+    margin-left: 40px;
+    height: 39.11px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 5px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0.25px;
+    padding-left: 40px;
+    padding-right: 230px;
+}
+
+#name2 {
+    margin-top: 14px;
+    margin-left: 40px;
+    height: 39.11px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 5px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0.25px;
+    padding-left: 40px;
+    padding-right: 230px;
+}
+
+.gemor {
+    width: 468px;
+    height: 40px;
+    top: 240px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #38CC8B;
+    box-shadow: 0px -4px 0px 0px #00000017 inset;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 14px;
+}
+
+.gemor:hover {
+    box-shadow: none;
+    color: gray;
+}
+
+.nas {
+    margin: 0%;
+    width: 1440px;
+    height: 97.94px;
+    top: 2116px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #222222;
+    justify-content: space-between;
+}
+
+.cassa {
+    display: flex;
+}
+
+.ansa {
+    margin-left: 16px;
+    width: 119px;
+    height: 33px;
+    top: 8px;
+    left: 66px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.68px;
+    text-align: left;
+    margin-top: 27px;
+    color: #DE2E54;
+}
+
+.narko {
+    margin-right: 170px;
+    margin-top: 22px;
+}
+
+.ay {
+    color: white;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-align: left;
+    margin-left: 32px;
+}
+
+.yay {
+    margin-left: 170px;
+    margin-top: 17px;
+    width: 50px;
+    height: 49.94px;
+    gap: 0px;
+    opacity: 0px;
+
+}
